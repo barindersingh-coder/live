@@ -1,0 +1,19 @@
+#moga{
+    margin-top: 100px;
+    display:flexbox;
+    font-style: oblique;
+    color: green;
+
+    
+}
+h1{
+    color: blueviolet;
+}
+
+body {
+    background-image: url('third.jpg'); /* Replace with your image path */
+    background-size: cover; /* Adjust as needed */
+    background-position: center; /* Adjust as needed */
+    /* Optional: Add more properties to customize */
+}
+
